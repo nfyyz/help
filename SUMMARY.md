@@ -18,6 +18,5 @@
   * [服务中断问题解决](wen-ti-lie-biao/netflix-shi-yong-wen-ti-jie-jue/fu-wu-zhong-duan-wen-ti-jie-jue.md)
   * [Netflix 影片资源地区查询](wen-ti-lie-biao/netflix-shi-yong-wen-ti-jie-jue/netflix-ying-pian-zi-yuan-di-qu-cha-xun.md)
   * [Netflix 客户端](wen-ti-lie-biao/netflix-shi-yong-wen-ti-jie-jue/netflix-ke-hu-duan.md)
-  * [如观看Netflix 4K 内容](wen-ti-lie-biao/netflix-shi-yong-wen-ti-jie-jue/ru-guan-kan-netflix-4k-nei-rong.md)
+  * [如何观看 Netflix 4K 内容](wen-ti-lie-biao/netflix-shi-yong-wen-ti-jie-jue/ru-guan-kan-netflix-4k-nei-rong.md)
   * [观看 Netflix 的互联网连接速度建议](https://help.netflix.com/zh-cn/node/306)
-
