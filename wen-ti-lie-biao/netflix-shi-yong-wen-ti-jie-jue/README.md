@@ -19,3 +19,9 @@ description: 这里有几乎所有会遇到的关于 Netflix 使用的问题
 {% content-ref url="netflix-ke-hu-duan.md" %}
 [netflix-ke-hu-duan.md](netflix-ke-hu-duan.md)
 {% endcontent-ref %}
+
+{% content-ref url="ru-guan-kan-netflix-4k-nei-rong.md" %}
+[ru-guan-kan-netflix-4k-nei-rong.md](ru-guan-kan-netflix-4k-nei-rong.md)
+{% endcontent-ref %}
+
+{% embed url="https://help.netflix.com/zh-cn/node/306" %}

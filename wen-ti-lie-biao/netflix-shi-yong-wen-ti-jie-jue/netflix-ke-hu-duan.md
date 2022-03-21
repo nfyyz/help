@@ -12,7 +12,7 @@ description: 客户端
 
 ### IOS
 
-#### 下载 IOS Netflix 客户端 需要 外区ID
+#### 下载 Netflix  IOS 客户端 需要 外区ID
 
 {% embed url="https://apps.apple.com/us/app/netflix/id363590051" %}
 
