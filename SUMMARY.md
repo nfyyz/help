@@ -21,4 +21,3 @@
   * [如观看Netflix 4K 内容](wen-ti-lie-biao/netflix-shi-yong-wen-ti-jie-jue/ru-guan-kan-netflix-4k-nei-rong.md)
   * [观看 Netflix 的互联网连接速度建议](https://help.netflix.com/zh-cn/node/306)
 
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="6c582ced-729f-4ea0-85ea-251ccf774354";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
