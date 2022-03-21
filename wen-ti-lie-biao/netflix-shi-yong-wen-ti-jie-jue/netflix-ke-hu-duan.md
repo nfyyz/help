@@ -22,4 +22,4 @@ description: 客户端
 
 ### Android电视盒子
 
-{% embed url="https://store.nfyyz.top/netflix-android-tv-8-3-3.apk" %}
+#### [点击下载](https://store.nfyyz.top/netflix-android-tv-8-3-3.apk)
