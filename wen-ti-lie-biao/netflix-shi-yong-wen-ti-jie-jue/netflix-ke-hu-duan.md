@@ -10,6 +10,10 @@ description: 客户端
 
 {% embed url="https://play.google.com/store/apps/details?id=com.netflix.mediaclient" %}
 
+{% embed url="https://www.apkmirror.com/apk/netflix-inc" %}
+
+> <mark style="color:green;">在 APKMirror 中下载 Netflix 客户端请下载 APK 文件而非 BUNDLE 文件</mark>
+
 ### IOS
 
 #### 下载 Netflix  IOS 客户端 需要 外区ID
