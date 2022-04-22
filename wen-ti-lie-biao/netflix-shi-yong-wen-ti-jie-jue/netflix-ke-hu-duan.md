@@ -24,6 +24,11 @@ description: 客户端
 
 {% embed url="https://www.microsoft.com/en-us/p/netflix/9wzdncrfj3tj?activetab=pivot%3Aoverviewtab&cid=msft_web_appsforwindowsphone_collection" %}
 
-### Android电视盒子
+### Android 电视客户端
 
-#### [点击下载](https://store.nfyyz.top/netflix-android-tv-8-3-3.apk)
+{% embed url="https://www.apkmirror.com/apk/netflix-inc/netflix-android-tv" %}
+
+> <mark style="color:green;">在 APKMirror 中下载 Netflix 客户端请下载 APK 文件而非 BUNDLE 文件</mark>
+
+###
+
